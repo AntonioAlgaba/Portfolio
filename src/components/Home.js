@@ -21,6 +21,7 @@ const Home = () => {
         <h2 className=" text-3xl font-bold text-white">
           <Typewriter 
           options={{
+            delay: 25,
             cursor: '/>',
           }}
           onInit={(typewriter)=> {
