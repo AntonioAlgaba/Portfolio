@@ -22,7 +22,7 @@ const Works = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className=' text-lg font-bold text-white tracking-wider'>
+              <span className=' text-lg font-bold text-white '>
               {projects.title}
               </span>
               <p className='text-center'>{projects.description}</p>

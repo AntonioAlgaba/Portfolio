@@ -1,16 +1,9 @@
-import React, { useEffect, useState} from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 import me from '../assets/Photo.jpg';
 import { Link } from "react-scroll"; 
-import Typewriter from 'typewriter-effect';
 
 
 const Home = () => {
-  const [isTypingComplete, setIsTypingComplete] = useState(false);
-
-  const handleTypingComplete = () => {
-    setIsTypingComplete(true);
-  };
   return (
     <div
     name="home"
@@ -18,7 +11,9 @@ const Home = () => {
   >
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
       <div className="flex flex-col justify-center h-full">
-        <h2 className=" text-3xl font-bold text-white">
+        <h2 className=" text-3xl font-bold text-white"
+        
+        >
            Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a look around.
             
         </h2>
@@ -39,9 +34,7 @@ const Home = () => {
           </span>
         </Link>
       </div>
-      </div>
-        
-        
+      </div>   
       </div>
       <div>
         <img
