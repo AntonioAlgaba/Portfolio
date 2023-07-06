@@ -1,51 +1,51 @@
 [
     {
         "id": 1,
-        "title": "Plan my Dinner",
-        "description": "Plan my dinner and movie",
-        "demo": "https://antonioalgaba.github.io/PlanMyDinnerMovie/",
-        "code": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie",
-        "image": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie/blob/main/images/movie-screen-shot.jpg?raw=true"
+        "title": "FitMax",
+        "description": "FitMax is a webapp which aims to display the most effective workout videos for each body part. It also allows you to calculate different metrics for your health.",
+        "demo": "https://earnest-brioche-0d496b.netlify.app/",
+        "code": "https://github.com/AntonioAlgaba/FitMax",
+        "image": "https://github.com/AntonioAlgaba/FitMax/blob/main/src/assets/images/Fitmax.jpg?raw=true"
     },
     {
         "id": 2,
         "title": "Plan my Dinner",
-        "description": "Plan my dinner and movie",
+        "description": "Plan My Dinner is a search engine that enables you to find the perfect recipe. It will even suggest a cocktail and a movie",
         "demo": "https://antonioalgaba.github.io/PlanMyDinnerMovie/",
         "code": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie",
         "image": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie/blob/main/images/movie-screen-shot.jpg?raw=true"
     },
     {
         "id": 3,
-        "title": "Plan my Dinner",
-        "description": "Plan my dinner and movie",
-        "demo": "https://antonioalgaba.github.io/PlanMyDinnerMovie/",
-        "code": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie",
-        "image": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie/blob/main/images/movie-screen-shot.jpg?raw=true"
+        "title": "Work-Day-Scheduler",
+        "description": "The app display the current day and time. The textarea for each hour is changing according with the time",
+        "demo": "https://antonioalgaba.github.io/Work-Day-Scheduler/",
+        "code": "https://github.com/AntonioAlgaba/Work-Day-Scheduler",
+        "image": "https://github.com/AntonioAlgaba/Work-Day-Scheduler/blob/main/images/screenshot.jpg?raw=true"
     },
     {
         "id": 4,
-        "title": "Plan my Dinner",
-        "description": "Plan my dinner and movie",
-        "demo": "https://antonioalgaba.github.io/PlanMyDinnerMovie/",
-        "code": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie",
-        "image": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie/blob/main/images/movie-screen-shot.jpg?raw=true"
+        "title": "Weather-Dashboard",
+        "description": "Weather dashboard with form inputs dispayung 5-days forecast",
+        "demo": "https://antonioalgaba.github.io/Weather-Dashboard/",
+        "code": "https://github.com/AntonioAlgaba/Weather-Dashboard",
+        "image": "https://github.com/AntonioAlgaba/Weather-Dashboard/blob/main/images/screenshot1.jpg?raw=true"
     },
     {
         "id": 5,
-        "title": "Plan my Dinner",
-        "description": "Plan my dinner and movie",
-        "demo": "https://antonioalgaba.github.io/PlanMyDinnerMovie/",
-        "code": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie",
-        "image": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie/blob/main/images/movie-screen-shot.jpg?raw=true"
+        "title": "Team-Profile-Generator",
+        "description": "Working Node.js command-line application that takes in information about employees and generates an HTML webpage.",
+        "demo": "https://watch.screencastify.com/v/5FxyfDPOBbZLuZi0JrxK",
+        "code": "https://github.com/AntonioAlgaba/Team-Profile-Generator",
+        "image": "https://github.com/AntonioAlgaba/Team-Profile-Generator/blob/main/assets/screenshot.jpg?raw=true"
     },
     {
         "id": 6,
-        "title": "Plan my Dinner",
-        "description": "Plan my dinner and movie",
-        "demo": "https://antonioalgaba.github.io/PlanMyDinnerMovie/",
-        "code": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie",
-        "image": "https://github.com/AntonioAlgaba/PlanMyDinnerMovie/blob/main/images/movie-screen-shot.jpg?raw=true"
+        "title": "Password-Generator",
+        "description": "App to generate a random password",
+        "demo": "https://antonioalgaba.github.io/Password-Generator/",
+        "code": "https://github.com/AntonioAlgaba/Password-Generator",
+        "image": "https://github.com/AntonioAlgaba/Password-Generator/blob/main/images/application.jpg?raw=true"
     }
     
 ]

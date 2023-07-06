@@ -19,19 +19,11 @@ const Home = () => {
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
       <div className="flex flex-col justify-center h-full">
         <h2 className=" text-3xl font-bold text-white">
-          <Typewriter 
-          options={{
-            delay: 25,
-            cursor: '/>',
-          }}
-          onInit={(typewriter)=> {
-            typewriter.typeString("< Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a look around.")
-            .start()
-            .callFunction(handleTypingComplete);
-          }} 
-          />
+           Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a look around.
+            
         </h2>
-        {isTypingComplete && (<div><p className="text-gray-500 py-4 max-w-md">
+        <div>
+          <p className="text-gray-500 py-4 max-w-md">
            front end devoloper
         </p>
         <div>
@@ -48,7 +40,7 @@ const Home = () => {
         </Link>
       </div>
       </div>
-        )}
+        
         
       </div>
       <div>

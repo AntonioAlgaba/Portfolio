@@ -12,20 +12,20 @@ const Works = () => {
           <p className='py-6 text-2xl'>Check out some of my most recent work</p>
         </div>
         {/* Container */}
-        <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4 p-4'>
           {/* Grid Item */}
           {projects.map((projects) => (
           <div
             key={projects.id}
             style={{ backgroundImage: `url(${projects.image})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='group container rounded-md flex justify-center items-center object-center object-cover content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
               {projects.title}
               </span>
-              <p className='text-center'>project</p>
+              <p className='text-center'>{projects.description}</p>
               <div className='pt-8 text-center'>
                 <a href={projects.demo} target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
