@@ -14,7 +14,7 @@ const Home = () => {
         <h2 className=" text-3xl font-bold text-white"
         
         >
-           Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a look around.
+           Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a look around!.
             
         </h2>
         <div>
