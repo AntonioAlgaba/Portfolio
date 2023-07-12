@@ -9,17 +9,14 @@ const Home = () => {
     name="home"
     className="h-screen w-full bg-[#0a192f]"
   >
-    <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
+    <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-screen px-4 md:flex-row gap-x-16">
       <div className="flex flex-col justify-center h-full">
-        <h2 className=" text-3xl font-bold text-white"
-        
-        >
-           Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a look around.
-            
+        <h2 className=" text-3xl font-bold text-white">
+        Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a look around.
         </h2>
         <div>
           <p className="text-gray-500 py-4 max-w-md">
-           front end devoloper
+          Aspiring Front End Developer 
         </p>
         <div>
         <Link
@@ -40,7 +37,7 @@ const Home = () => {
         <img
           src={me}  
           alt="my profile"
-          className="rounded-full w-96 mx-10"
+          className="rounded-full w-64"
         />
       </div>
     </div>

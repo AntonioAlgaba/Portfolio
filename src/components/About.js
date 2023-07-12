@@ -17,16 +17,18 @@ const About = () => {
             </div>
             <div></div>
           </div>
-          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-4xl font-bold">
+          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 ">
+            <div className="text-center text-2xl font-bold ">
               <p>
-                Hi. I'm Antonio Algaba Osuna, nice to meet you. Please take a
-                look around.
+              Aspiring Front End Developer with a year of self-taught coding experience backed up by a
+recently completed 16 weeks, intensive coding Bootcamp
               </p>
             </div>
             <div>
               <p>
-                A future front end devoloper
+              Having worked for 9 years in the hospitality industry in different roles and most recently in
+corporate hospitality in law firms, I made the decision in Summer 2022 to change career into
+something I have always enjoyed, and that is coding. 
               </p>
             </div>
           </div>
